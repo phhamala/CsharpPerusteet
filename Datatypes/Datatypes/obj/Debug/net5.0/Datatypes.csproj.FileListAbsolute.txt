@@ -1,0 +1,16 @@
+C:\Users\helena.hamalainen2\source\repos\Datatypes\Datatypes\bin\Debug\net5.0\Datatypes.exe
+C:\Users\helena.hamalainen2\source\repos\Datatypes\Datatypes\bin\Debug\net5.0\Datatypes.deps.json
+C:\Users\helena.hamalainen2\source\repos\Datatypes\Datatypes\bin\Debug\net5.0\Datatypes.runtimeconfig.json
+C:\Users\helena.hamalainen2\source\repos\Datatypes\Datatypes\bin\Debug\net5.0\Datatypes.runtimeconfig.dev.json
+C:\Users\helena.hamalainen2\source\repos\Datatypes\Datatypes\bin\Debug\net5.0\Datatypes.dll
+C:\Users\helena.hamalainen2\source\repos\Datatypes\Datatypes\bin\Debug\net5.0\ref\Datatypes.dll
+C:\Users\helena.hamalainen2\source\repos\Datatypes\Datatypes\bin\Debug\net5.0\Datatypes.pdb
+C:\Users\helena.hamalainen2\source\repos\Datatypes\Datatypes\obj\Debug\net5.0\Datatypes.csprojAssemblyReference.cache
+C:\Users\helena.hamalainen2\source\repos\Datatypes\Datatypes\obj\Debug\net5.0\Datatypes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\helena.hamalainen2\source\repos\Datatypes\Datatypes\obj\Debug\net5.0\Datatypes.AssemblyInfoInputs.cache
+C:\Users\helena.hamalainen2\source\repos\Datatypes\Datatypes\obj\Debug\net5.0\Datatypes.AssemblyInfo.cs
+C:\Users\helena.hamalainen2\source\repos\Datatypes\Datatypes\obj\Debug\net5.0\Datatypes.csproj.CoreCompileInputs.cache
+C:\Users\helena.hamalainen2\source\repos\Datatypes\Datatypes\obj\Debug\net5.0\Datatypes.dll
+C:\Users\helena.hamalainen2\source\repos\Datatypes\Datatypes\obj\Debug\net5.0\ref\Datatypes.dll
+C:\Users\helena.hamalainen2\source\repos\Datatypes\Datatypes\obj\Debug\net5.0\Datatypes.pdb
+C:\Users\helena.hamalainen2\source\repos\Datatypes\Datatypes\obj\Debug\net5.0\Datatypes.genruntimeconfig.cache
